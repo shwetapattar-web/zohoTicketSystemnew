@@ -1,0 +1,17 @@
+#submit-btn-align{
+    float: right;
+}
+
+.align-labels{
+    text-align:left;
+}
+
+.sign-out-btn{
+
+    float:right;margin-top:10px;
+}
+
+.all-ticket-btn{
+    float:left;
+}
+
